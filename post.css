@@ -1,0 +1,15 @@
+
+#container{
+    display:inline;
+    justify-content: center;
+}
+.user{
+    background-color: green;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+}
+.btn{
+    border-radius: 10px;
+    background-color: blueviolet;
+}
